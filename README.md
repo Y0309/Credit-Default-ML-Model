@@ -39,12 +39,10 @@ Files used:
 | Logistic Regression | 99.9% | 0% | Model predicted almost all customers as “Safe” because data was highly imbalanced. |
 | Random Forest (Balanced) | 99.8% | **46%** | Better detection of risky customers after removing data leakage from the ID column. |
 
-**Top Factors Affecting Credit Risk**
-1. Age (younger customers more likely to default)  
-2. Employment length (shorter = higher risk)  
-3. Income level (lower = higher risk)  
-4. Family size and ownership indicators  
-
+Top Factors Affecting Credit Risk
+1. Age  
+2. Employment length 
+3. Income level  
 ---
 
 ## Key Insights  
@@ -56,10 +54,10 @@ Files used:
 ---
 
 ## Tools and Skills  
-- **Python** (Pandas, scikit-learn, Matplotlib)  
-- **Data Cleaning & Feature Engineering**  
-- **Model Training & Evaluation**
-- **Feature Importance Visualization**  
-- **Interpretation of Business Insights**
+- Python(Pandas, scikit-learn, Matplotlib)  
+- Data Cleaning & Feature Engineering  
+- Model Training & Evaluation
+- Feature Importance Visualization  
+- Interpretation of Business Insights
 
 ---
